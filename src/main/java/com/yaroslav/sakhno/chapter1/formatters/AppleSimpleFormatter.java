@@ -1,6 +1,6 @@
-package com.yaroslav.sakhno.formatters;
+package com.yaroslav.sakhno.chapter1.formatters;
 
-import com.yaroslav.sakhno.Apple;
+import com.yaroslav.sakhno.chapter1.Apple;
 
 public class AppleSimpleFormatter implements AppleFormater{
     @Override

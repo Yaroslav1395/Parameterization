@@ -1,4 +1,4 @@
-package com.yaroslav.sakhno;
+package com.yaroslav.sakhno.chapter1;
 
 public class Apple {
     private String color;

@@ -1,6 +1,6 @@
-package com.yaroslav.sakhno;
+package com.yaroslav.sakhno.chapter1;
 
-import com.yaroslav.sakhno.formatters.AppleFormater;
+import com.yaroslav.sakhno.chapter1.formatters.AppleFormater;
 
 import java.util.ArrayList;
 import java.util.List;
